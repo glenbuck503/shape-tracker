@@ -9,4 +9,4 @@ export default class Rectangle {
     return this.side1 * this.side2;
   }
   
-};
+}
